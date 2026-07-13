@@ -1,2 +1,2 @@
-# falcone
-Falcone programming language with the own VM!
+# falcon
+Falcon programming language with the own VM!
